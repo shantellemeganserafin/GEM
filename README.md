@@ -23,7 +23,7 @@ I am proud that I took what I learned in University into my hands. For instance,
 The biggest thing I learned was how to scope an entire project from design to implementation.
 
 ## What's next for GEM ##
-I plan to collect and analyze user data from the game to measure its effectiveness. "What does the user learn from this game? Is the user engaged with the prompts?" I plan to set up a backend to retrieve responses to prompts and send the game to young women in local high schools in the San Diego Area. In the future, I visualize GEM becoming a platform that holds short games that introduce women to value concepts (e.g. financial literacy). 
+I plan to collect and analyze user data from the game to measure its effectiveness. "What does the user learn from this game? Is the user engaged with the prompts?" I plan to set up a backend to retrieve responses to prompts and send the game to young women in local high schools in the San Diego Area. In the future, I visualize GEM becoming a platform that holds short games that introduce women to valuable concepts (e.g. growth mindset, nutrition, financial literacy).
 
 ## Link to Live Demo ##
 https://github.com/shantellemeganserafin/GEM/blob/main/Shantelle%20Serafin%20-%20URS%20-%20Ledell%20-%20GameDemo.mp4
