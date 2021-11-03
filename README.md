@@ -14,7 +14,7 @@ The game consists of four levels that correlate to the four waves of feminism, r
 The video game was built with Pygame, Python, Object-Oriented Design & Programming. The game flow, user experience, and user interface were designed in multiple iterations using mentor and target user feedback. The visual components (e.g. character sprite, graphics) were adopted from free online resources. 
 
 ## Challenges I ran into ##
-My biggest challenge was designing my program. It was difficult to map out exactly how I wanted to structure my code, classes, and objects. At times, there were things I had to change visually to have optimal performance with my code. 
+My biggest challenge was designing my program. It was initially difficult to map out exactly how I wanted to structure my code, classes, and objects. At times, there were things I had to change visually to have optimal performance with my code. 
 
 ## Accomplishments that I'm proud of ##
 I am proud that I took what I learned in University into my hands. For instance, I was able to adapt what I learned in Object-Oriented Design & Programming to structure my project. Additionally, I was able to pick up a new language, Python, relatively quickly. 
